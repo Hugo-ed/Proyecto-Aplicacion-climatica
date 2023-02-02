@@ -1,0 +1,9 @@
+void main() {
+//practica 5 
+  int numero1 = 30;
+  int numero2 = 10;
+  
+  print (numero1+numero2);
+  
+
+}

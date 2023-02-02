@@ -1,0 +1,10 @@
+void main() {
+  //ests es un comentario
+  
+  /*
+   * esto es un comentario multilinea
+   * hola mundo
+   * */
+  print('hola mundo!');
+}
+

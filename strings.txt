@@ -1,0 +1,10 @@
+void main() {
+  //strings
+  final nombre = 'Tony';//variable que no cambias despues de compilar
+  const apellido = 'Stark';//si puede cambair mas adelante
+    
+   // string nombre = 'Peter'
+    
+    //imprime un string
+ print('$nombre $apellido');
+}
